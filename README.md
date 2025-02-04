@@ -17,7 +17,7 @@ Boot the Nano and go through the installation routine for Ubuntu.
 - Install jtop, sudo pip3 install -U jetson-stats
 - Reboot 
 
-#Step III:\
+#Step III:
 - Setup Docker from the Jetson Zoo
 - Going to locate Docker image on external thumb drive
 
