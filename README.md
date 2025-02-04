@@ -4,5 +4,6 @@ Description: From scratch installation of Jetson nano, 2g, software setup for py
 
 #Step One:\
 Download Jetson Nano softare for etching onto a Micro SD card. Use this link [Jetson Nano Developer](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#intro), and write to Micro SD card (16Gb in this case) using Balena Etcher. Load card into Jetson Nano and boot the computer.
-<br/>
+
+
 Note: I am using a keyboard, mouse, and monitor to complete this initial step. While running the program, however, I will be running the Nano headless.
