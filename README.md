@@ -11,8 +11,10 @@ Note: I am using a keyboard, mouse, and monitor to complete this initial step. W
 #Step II:\
 Boot the Nano and go through the installation routine for Ubuntu. 
 
-- After the initial installation run update and upgrade routine.
-- Okay to send reports to Ubuntu
-
+- After the initial installation run sudo apt update and sudo apt upgrade (accept/use the defaults when prompted)
+- Before reboot:
+- Install pip3, sudo apt install python3.pip
+- Install jtop, sudo pip3 install -U jetson-stats
+- Reboot 
 
 #Step III:\
