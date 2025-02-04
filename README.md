@@ -9,4 +9,4 @@ Download Jetson Nano softare for etching onto a Micro SD card. Use this link [Je
 Note: I am using a keyboard, mouse, and monitor to complete this initial step. While running the program, however, I will be running the Nano headless.
 
 #Step Two:\
-Boot the Nano and go through the installation routine for Ubuntu.
+Boot the Nano and go through the installation routine for Ubuntu. After the initial installation run update and upgrade routine.
