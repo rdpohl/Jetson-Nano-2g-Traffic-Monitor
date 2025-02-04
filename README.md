@@ -19,7 +19,7 @@ Boot the Nano and go through the installation routine for Ubuntu.
 
 #Step III:\
 - Setup Docker from the Jetson Zoo
--- Going to locate Docker image on external thumb drive
+- Going to locate Docker image on external thumb drive
 
 
   
